@@ -46,10 +46,10 @@ Right click and click on - open with live server.
 
 # API Endpoints
 
-GET /users/: List all users
-POST /users/: Create new user
-GET /users/{id}: Get user by ID
-PUT /users/{id}: Update user
+GET /users/: List all users,
+POST /users/: Create new user,
+GET /users/{id}: Get user by ID,
+PUT /users/{id}: Update user,
 DELETE /users/{id}: Delete user
 
 # Backend API Documentation
@@ -59,9 +59,9 @@ http://localhost:8000/docs
 
 # Features.
 
-Create new users
-View list of users
-Update existing users
-Delete users
-Form validation
-Responsive design
+Create new users,
+View list of users,
+Update existing users,
+Delete users,
+Form validation,
+Responsive design,
